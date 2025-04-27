@@ -9,4 +9,6 @@
 <p>- Html</p>  
 <p>- Css</p> 
 
-<img
+<img src="./img/Background 2.png"/>
+<img src="./img/Background 3.png"/>
+
